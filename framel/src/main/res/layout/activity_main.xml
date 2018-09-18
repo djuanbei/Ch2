@@ -14,31 +14,21 @@
         tools:layout_editor_absoluteY="8dp">
 
         <TextView
-            android:id="@+id/view1"
-            android:layout_width="200pt"
-            android:layout_height="200pt"
-            android:layout_gravity="center"
-            android:background="@color/colorAccent"
-            android:gravity="center" />
-
-        <TextView
             android:id="@+id/view2"
             android:layout_width="180pt"
             android:layout_height="180pt"
             android:layout_gravity="center"
-            android:background="@color/colorPrimary"
-            android:gravity="center" />
+            android:background="@color/colorPrimary" />
 
         <TextView
             android:id="@+id/view3"
             android:layout_width="160pt"
             android:layout_height="160pt"
             android:layout_gravity="center"
-            android:background="@android:color/holo_blue_bright"
-            android:gravity="center" />
+            android:background="@android:color/holo_blue_bright" />
 
         <TextView
-            android:id="@+id/vew4"
+            android:id="@+id/view4"
             android:layout_width="140pt"
             android:layout_height="140pt"
             android:layout_gravity="center"
@@ -50,8 +40,7 @@
             android:layout_width="120pt"
             android:layout_height="120pt"
             android:layout_gravity="center"
-            android:background="@android:color/holo_red_light"
-            android:gravity="center" />
+            android:background="@android:color/holo_red_light" />
 
         <TextView
             android:id="@+id/view6"
@@ -60,6 +49,13 @@
             android:layout_gravity="center"
             android:background="@android:color/black"
             android:gravity="center" />
+
+        <TextView
+            android:id="@+id/view1"
+            android:layout_width="200pt"
+            android:layout_height="200pt"
+            android:layout_gravity="center"
+            android:background="@color/colorAccent" />
 
     </FrameLayout>
 

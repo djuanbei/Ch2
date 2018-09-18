@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             R.id.view1,
             R.id.view2,
             R.id.view3,
-            R.id.vew4,
+            R.id.view4,
             R.id.view5,
             R.id.view6
     };
@@ -35,13 +35,14 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void handleMessage(Message msg)
         {
-            super.handleMessage(msg);
+
             if(msg.what==0x123){
-                for(int i=0;i< names.length; i++){
+                for (int i = names.length - 1; i >= 0; i--) {
                     views[i].setBackgroundResource(colors[(i+currentColor)%names.length]);
                 }
                 currentColor++;
             }
+            super.handleMessage(msg);
         }
     };
 
@@ -60,6 +61,6 @@ public class MainActivity extends AppCompatActivity {
                                  public void run() {
                                     handler.sendEmptyMessage(0x123);
                                  }
-                             },0,200);
+        }, 0, 1000);
     }
 }
