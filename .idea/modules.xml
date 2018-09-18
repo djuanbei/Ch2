@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch2.iml" filepath="$PROJECT_DIR$/Ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeview/codeview.iml" filepath="$PROJECT_DIR$/codeview/codeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerview/customerview.iml" filepath="$PROJECT_DIR$/customerview/customerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framel/framel.iml" filepath="$PROJECT_DIR$/framel/framel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutf/layoutf.iml" filepath="$PROJECT_DIR$/layoutf/layoutf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lineary/lineary.iml" filepath="$PROJECT_DIR$/lineary/lineary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablel/tablel.iml" filepath="$PROJECT_DIR$/tablel/tablel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
