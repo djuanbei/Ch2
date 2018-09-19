@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/layoutf/layoutf.iml" filepath="$PROJECT_DIR$/layoutf/layoutf.iml" />
       <module fileurl="file://$PROJECT_DIR$/lineary/lineary.iml" filepath="$PROJECT_DIR$/lineary/lineary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plumblossom/plumblossom.iml" filepath="$PROJECT_DIR$/plumblossom/plumblossom.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablel/tablel.iml" filepath="$PROJECT_DIR$/tablel/tablel.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
