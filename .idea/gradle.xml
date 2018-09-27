@@ -8,7 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/absolutel" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/autocompletetextviewtest" />
+            <option value="$PROJECT_DIR$/buttontest" />
             <option value="$PROJECT_DIR$/codeview" />
             <option value="$PROJECT_DIR$/customerview" />
             <option value="$PROJECT_DIR$/demo" />
@@ -20,6 +23,8 @@
             <option value="$PROJECT_DIR$/plumblossom" />
             <option value="$PROJECT_DIR$/tablel" />
             <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/textviewtest" />
+            <option value="$PROJECT_DIR$/textviewtest2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

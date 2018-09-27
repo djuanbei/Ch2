@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ch2.iml" filepath="$PROJECT_DIR$/Ch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/absolutel/absolutel.iml" filepath="$PROJECT_DIR$/absolutel/absolutel.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompletetextviewtest/autocompletetextviewtest.iml" filepath="$PROJECT_DIR$/autocompletetextviewtest/autocompletetextviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttontest/buttontest.iml" filepath="$PROJECT_DIR$/buttontest/buttontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeview/codeview.iml" filepath="$PROJECT_DIR$/codeview/codeview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customerview/customerview.iml" filepath="$PROJECT_DIR$/customerview/customerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
@@ -15,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/plumblossom/plumblossom.iml" filepath="$PROJECT_DIR$/plumblossom/plumblossom.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablel/tablel.iml" filepath="$PROJECT_DIR$/tablel/tablel.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewtest/textviewtest.iml" filepath="$PROJECT_DIR$/textviewtest/textviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textviewtest2/textviewtest2.iml" filepath="$PROJECT_DIR$/textviewtest2/textviewtest2.iml" />
     </modules>
   </component>
 </project>

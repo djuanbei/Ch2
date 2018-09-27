@@ -1,1 +1,1 @@
-include ':app', ':codeview', ':customerview', ':lineary', ':tablel', ':layoutf', ':test', ':demo', ':homework', ':framel', ':plumblossom', ':gridl'
+include ':app', ':codeview', ':customerview', ':lineary', ':tablel', ':layoutf', ':test', ':demo', ':homework', ':framel', ':plumblossom', ':gridl', ':absolutel', ':textviewtest', ':textviewtest2', ':buttontest', ':autocompletetextviewtest'
