@@ -43,10 +43,27 @@ public class MainActivity extends AppCompatActivity {
         next = (Button) findViewById(R.id.next);
         image1 = (ImageView) findViewById(R.id.image1);
         image2 = (ImageView) findViewById(R.id.image2);
+        image1.setImageResource(images[++currentImg % images.length]);
+        BitmapDrawable bitmap = (BitmapDrawable) image1.getDrawable();
+        Bitmap bm = bitmap.getBitmap();
+        double scale = 1.0 * bm.getHeight() / image1.getHeight();
+        int x = 0;
+        int y = 0;
+
+        if (x + 120 > bm.getWidth()) {
+            x = bm.getWidth() - 120;
+        }
+        if (y + 120 > bm.getHeight()) {
+            y = bm.getHeight() - 120;
+        }
+        image2.setImageBitmap(Bitmap.createBitmap(bm, x, y, 120, 120));
+        image2.setImageAlpha(alpha);
+
 
         image1.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
+
                 BitmapDrawable bitmap = (BitmapDrawable) image1.getDrawable();
                 Bitmap bm = bitmap.getBitmap();
                 double scale = 1.0 * bm.getHeight() / image1.getHeight();
