@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Ch2.iml" filepath="$PROJECT_DIR$/Ch2.iml" />
       <module fileurl="file://$PROJECT_DIR$/absolutel/absolutel.iml" filepath="$PROJECT_DIR$/absolutel/absolutel.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayadaptertest/arrayadaptertest.iml" filepath="$PROJECT_DIR$/arrayadaptertest/arrayadaptertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/autocompletetextviewtest/autocompletetextviewtest.iml" filepath="$PROJECT_DIR$/autocompletetextviewtest/autocompletetextviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/buttontest/buttontest.iml" filepath="$PROJECT_DIR$/buttontest/buttontest.iml" />
       <module fileurl="file://$PROJECT_DIR$/chrononmetertest/chrononmetertest.iml" filepath="$PROJECT_DIR$/chrononmetertest/chrononmetertest.iml" />
@@ -13,11 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/framel/framel.iml" filepath="$PROJECT_DIR$/framel/framel.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridl/gridl.iml" filepath="$PROJECT_DIR$/gridl/gridl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridviewtest/gridviewtest.iml" filepath="$PROJECT_DIR$/gridviewtest/gridviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageviewtest/imageviewtest.iml" filepath="$PROJECT_DIR$/imageviewtest/imageviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/layoutf/layoutf.iml" filepath="$PROJECT_DIR$/layoutf/layoutf.iml" />
       <module fileurl="file://$PROJECT_DIR$/lineary/lineary.iml" filepath="$PROJECT_DIR$/lineary/lineary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/plumblossom/plumblossom.iml" filepath="$PROJECT_DIR$/plumblossom/plumblossom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickcontractbadgetest/quickcontractbadgetest.iml" filepath="$PROJECT_DIR$/quickcontractbadgetest/quickcontractbadgetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablel/tablel.iml" filepath="$PROJECT_DIR$/tablel/tablel.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/textviewtest/textviewtest.iml" filepath="$PROJECT_DIR$/textviewtest/textviewtest.iml" />

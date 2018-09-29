@@ -63,7 +63,6 @@ public class MainActivity extends AppCompatActivity {
         image1.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
-
                 BitmapDrawable bitmap = (BitmapDrawable) image1.getDrawable();
                 Bitmap bm = bitmap.getBitmap();
                 double scale = 1.0 * bm.getHeight() / image1.getHeight();
