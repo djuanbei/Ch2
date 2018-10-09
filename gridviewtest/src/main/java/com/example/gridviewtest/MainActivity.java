@@ -51,9 +51,7 @@ public class MainActivity extends AppCompatActivity {
         grid.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
                                            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-
                                                imageView.setImageResource(imageIds[position]);
-
                                            }
 
 
